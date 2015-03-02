@@ -1,2 +1,2 @@
 # PMCS
-Power Monitoring and Controlling System for Pelabuan Ratu Power Station
+Power Monitoring and Controlling System for Pelabuan Ratu Fossil-fuel Power Station
